@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/<your-repo-name>/', // REPLACE THIS with your actual repo name
+  base: '/proactive-roleplaying-notes/',
 })
