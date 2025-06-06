@@ -26,5 +26,6 @@ jobs:
     - uses: EndBug/add-and-commit@v9
       with:  
         add: 'dist'
-        author_name: 'Github Actions'
+        author_name: 'github-actions'
+        author_email: 'github-actions@users.noreply.github.com'
         message: 'New deployment of pages app'
